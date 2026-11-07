@@ -41,3 +41,12 @@ htmlcov/
 Thumbs.db
 
 .env
+
+.uvicorn.pid
+uvicorn.log
+
+.uvicorn.pid
+uvicorn.log
+
+.uvicorn.pid
+uvicorn.log
